@@ -1,3 +1,5 @@
+package ch.chrisport.adventofcode;
+
 public class Input {
 
     public static String input = "myhposlqgeauywfikztndcvrqr\n" +
